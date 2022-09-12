@@ -21,6 +21,8 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.hpp
         mainwindow.ui
+        menucombobox.hpp
+        menucombobox.cpp
         ${TS_FILES}
 )
 
