@@ -23,6 +23,8 @@ set(PROJECT_SOURCES
         mainwindow.ui
         menucombobox.hpp
         menucombobox.cpp
+        dropdown.h
+        dropdown.cpp
         ${TS_FILES}
 )
 
